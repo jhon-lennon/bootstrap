@@ -1,0 +1,40 @@
+#logo{
+    width: 100px;
+  height: 
+  50px;
+}
+#nav{
+    background-color: black;
+}
+
+.card{
+    margin: auto;
+    border-radius: 10px 10px 10px 10px ;
+  font-size: 14px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.card-img-top{
+    border-radius: 10px 10px 0px 0px;
+    
+}
+
+img{
+   
+    height: 250px;
+}
+.card-body{
+   
+    height: 200px;
+}
+
+.foote-card{
+
+    height: 50px;
+}
+#entrada{
+    color: rgb(4, 125, 2);
+}
+#dia{
+    color: rgb(195, 126, 15);
+}
