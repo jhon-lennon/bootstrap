@@ -38,3 +38,18 @@ img{
 #dia{
     color: rgb(195, 126, 15);
 }
+
+.btn{
+    background-color: rgb(53, 9, 136);
+  
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.btn :hover{
+    background-color: rgba(53, 9, 136, 0.335);
+}
+
+.pfooter{
+    margin-left: 15px;
+}
