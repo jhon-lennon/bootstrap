@@ -1,3 +1,7 @@
+
+body{
+    background-image: url(bg.jpg);
+}
 #logo{
     width: 100px;
   height: 
@@ -12,6 +16,7 @@
     border-radius: 10px 10px 10px 10px ;
   font-size: 14px;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: rgba(240, 248, 255, 0.861);
   
 }
 .card-img-top{
@@ -27,6 +32,9 @@ img{
    
     height: 200px;
 }
+.card-text{
+    font-weight: bold;
+}
 
 .foote-card{
 
@@ -41,15 +49,26 @@ img{
 
 .btn{
     background-color: rgb(53, 9, 136);
-  
+  color: white;
     border-radius: 10px;
     font-size: 12px;
 }
 
-.btn :hover{
+.btn:hover{
     background-color: rgba(53, 9, 136, 0.335);
+    color: white;
 }
 
 .pfooter{
     margin-left: 15px;
+
+}
+.info{
+    height: 42;
+    width: 254px;
+    margin-top: 19px;
+    
+}
+.btn-conf{
+    margin-left: 42px;
 }
