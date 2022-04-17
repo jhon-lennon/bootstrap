@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(bg.jpg);
+    background-image: linear-gradient(to right, #6D17E6,#a074cc,#814fe5, #B895E6);
 }
 #logo{
     width: 100px;
