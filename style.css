@@ -51,7 +51,7 @@ img{
     background-color: rgb(53, 9, 136);
   color: white;
     border-radius: 10px;
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .btn:hover{
@@ -71,4 +71,20 @@ img{
 }
 .btn-conf{
     margin-left: 42px;
+}
+
+.btn-c{
+    background-color: rgb(9, 121, 52);
+ 
+}
+
+.carrocel{
+   
+    width: 600px; 
+    height: 350px;
+    
+}
+
+.carousel-inner{
+    border-radius: 15px;
 }
