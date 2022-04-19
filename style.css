@@ -16,7 +16,7 @@ body{
     border-radius: 10px 10px 10px 10px ;
   font-size: 14px;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   background-color: rgba(240, 248, 255, 0.861);
+   background-color: rgba(251, 251, 251, 0.196);
   
 }
 .card-img-top{
@@ -81,6 +81,7 @@ img{
 .carrocel{
    
 margin: auto;
+height: 350px;
     
     
 }
@@ -93,8 +94,8 @@ margin: auto;
 
 
 .carcad{
-    max-width:600px;
-    max-height:350px;
+    max-width:800px;
+    max-height:450px;
     width: auto;
     height: auto;
     margin: auto;
